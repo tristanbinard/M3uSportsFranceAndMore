@@ -1,262 +1,271 @@
-﻿#EXTM3U
+#EXTM3U
 
-#EXTINF:-1, tvg-id="BFMTV.fr" tvg-logo="Logo N/A" tvg-name="BFM TV FHD"  group-title="ACTUALITES",BFM TV FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116147
-
-#EXTINF:-1, tvg-id="France24.fr" tvg-logo="Logo N/A" tvg-name="FRANCE 24"  group-title="ACTUALITES",FRANCE 24
-https://tvradiozap.eu/tv/m3u8/france24.m3u8
-
-#EXTINF:-1, tvg-id="FranceInfo.ffr" tvg-logo="Logo N/A" tvg-name="FRANCE INFO"  group-title="ACTUALITES",FRANCE INFO
-https://tvradiozap.eu/tools/ft-m3u8.php/franceinfo.m3u8
-
-#EXTINF:-1, tvg-id="Lci.fr" tvg-logo="https://static.teleboy.ch/shared/stations/462/icon320_light.png?v2023_48_0" tvg-name="LCI HD"  group-title="ACTUALITES",LCI HD
-http://151.80.18.177:86/LCI_HD/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="I24 NEWS"  group-title="ACTUALITES",I24 NEWS
+#EXTINF:-1, tvg-id="I24.fr" tvg-logo="https://static.teleboy.ch/shared/stations/449/icon320_light.png?v2023_48_0" tvg-name="I24 NEWS"  group-title="ACTUALITES",I24 NEWS
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116152
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNEWS HD"  group-title="ACTUALITES",CNEWS HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116144
+#EXTINF:-1, tvg-id="FranceInfo.ffr" tvg-logo="https://www.lyngsat.com/logo/tv/ff/franceinfo-tv-fr.svg" tvg-name="FRANCE INFO"  group-title="ACTUALITES",FRANCE INFO
+https://tvradiozap.eu/tools/ft-m3u8.php/franceinfo.m3u8
 
-#EXTINF:-1, tvg-id="BfmBusiness.fr" tvg-logo="Logo N/A" tvg-name="BFM BUSINESS HD"  group-title="ACTUALITES",BFM BUSINESS HD
+#EXTINF:-1, tvg-id="BFMTV.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bfm-tv-fr.svg" tvg-name="BFM TV FHD"  group-title="ACTUALITES",BFM TV FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116147
+
+#EXTINF:-1, tvg-id="ViaGrandParis.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png" tvg-name="LE FIGARO TV TV"  group-title="ACTUALITES",LE FIGARO TV TV
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+
+#EXTINF:-1, tvg-id="LCP100.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lcp-assemblee-nationale-fr.svg" tvg-name="LCP PUBLIC SENAT"  group-title="ACTUALITES",LCP PUBLIC SENAT
+https://tvradiozap.eu/tools/ft-m3u8.php/lcp.m3u8
+
+#EXTINF:-1, tvg-id="BfmBusiness.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bfm-business-fr.svg" tvg-name="BFM BUSINESS HD"  group-title="ACTUALITES",BFM BUSINESS HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116148
 
 #EXTINF:-1, tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" tvg-name="BFM TV"  group-title="ACTUALITES",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EURONEWS"  group-title="ACTUALITES",EURONEWS
+#EXTINF:-1, tvg-id="Cnews.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-226.png" tvg-name="CNEWS HD"  group-title="ACTUALITES",CNEWS HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116144
+
+#EXTINF:-1, tvg-id="Cnews.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-226.png" tvg-name="CNEWS"  group-title="ACTUALITES",CNEWS
+https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+
+#EXTINF:-1, tvg-id="France24.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png" tvg-name="FRANCE 24"  group-title="ACTUALITES",FRANCE 24
+https://tvradiozap.eu/tv/m3u8/france24.m3u8
+
+#EXTINF:-1, tvg-id="Euronews.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews-albania-fr-al.png" tvg-name="EURONEWS"  group-title="ACTUALITES",EURONEWS
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116141
 
 #EXTINF:-1, tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" tvg-name="BFM TV"  group-title="ACTUALITES",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RT FRANCE HD"  group-title="ACTUALITES",RT FRANCE HD
+#EXTINF:-1, tvg-id="RTFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/langfr-250px-RT_France.svg.png" tvg-name="RT FRANCE HD"  group-title="ACTUALITES",RT FRANCE HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116142
+
+#EXTINF:-1, tvg-id="Lci.fr" tvg-logo="https://static.teleboy.ch/shared/stations/462/icon320_light.png?v2023_48_0" tvg-name="LCI HD"  group-title="ACTUALITES",LCI HD
+http://151.80.18.177:86/LCI_HD/index.m3u8
 
 #EXTINF:-1, tvg-id="01TV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SFR100x100COLORTECHCO.png" tvg-name="TECH & CO"  group-title="ACTUALITES",TECH & CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1, tvg-id="Cnews.fr" tvg-logo="Logo N/A" tvg-name="CNEWS"  group-title="ACTUALITES",CNEWS
-https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:-1, tvg-id="RTFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/langfr-250px-RT_France.svg.png" tvg-name="RT FRANCE HD"  group-title="ACTUALITES",RT FRANCE HD
+https://librarian.pussthecat.org/live/content/a6a125c99ba2a6c068a8b502fb08dda603f6f03a/live.m3u8
 
-#EXTINF:-1, tvg-id="BFMTV.fr" tvg-logo="Logo N/A" tvg-name="BFM TV HD"  group-title="ACTUALITES",BFM TV HD
+#EXTINF:-1, tvg-id="Africa24.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" tvg-name="AFRICA 24"  group-title="ACTUALITES",AFRICA 24
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+
+#EXTINF:-1, tvg-id="Africanews.fr" tvg-logo="https://epg.pw/media/images/epg/2025/04/06/20250406040610254622_96.png" tvg-name="AFRICANEWS"  group-title="ACTUALITES",AFRICANEWS
+https://africanews-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6573/bitok/eyJzdGlkIjoiNWVkNGRjNTQtMjM0OC00NmJkLWEwMDUtY2U0M2I5Y2ZjYTcxIiwibWt0IjoiZnIiLCJjaCI6NjU3MywicHRmIjo1fQ%3D%3D/26037/africanews-fr.m3u8#origine-938=https://tvradiozap.eu
+
+#EXTINF:-1, tvg-id="Africa24.af" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6a/Logo_Africa_24.jpg" tvg-name="AFRICA 24"  group-title="ACTUALITES",AFRICA 24
+https://africa24.vedge.infomaniak.com/livecast/africa24/manifest.m3u8#origine-1005=https://tvradiozap.eu
+
+#EXTINF:-1, tvg-id="BFMTV.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bfm-tv-fr.svg" tvg-name="BFM TV HD"  group-title="ACTUALITES",BFM TV HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116146
-
-#EXTINF:-1, tvg-id="ViaGrandParis.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png" tvg-name="LE FIGARO TV TV"  group-title="ACTUALITES",LE FIGARO TV TV
-https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-
-#EXTINF:-1, tvg-id="LCP100.fr" tvg-logo="Logo N/A" tvg-name="LCP PUBLIC SENAT"  group-title="ACTUALITES",LCP PUBLIC SENAT
-https://tvradiozap.eu/tools/ft-m3u8.php/lcp.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CHERIE 25 FHD"  group-title="CINEMA",CHERIE 25 FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116435
-
-#EXTINF:-1, tvg-id="CanalPlusFoot.fr" tvg-logo="Logo N/A" tvg-name="CANAL+ FOOT FHD"  group-title="CINEMA",CANAL+ FOOT FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116413
-
-#EXTINF:-1, tvg-id="cANALpLUS;FR" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-34.png" tvg-name="CANAL+ HD"  group-title="CINEMA",CANAL+ HD
-http://151.80.18.177:86/Canal+_HD/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL+ GRAND ECRAN FHD"  group-title="CINEMA",CANAL+ GRAND ECRAN FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116414
 
-#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="Logo N/A" tvg-name="CANAL+ FHD"  group-title="CINEMA",CANAL+ FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116409
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CHERIE 25 FHD"  group-title="CINEMA",CHERIE 25 FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116435
+
+#EXTINF:-1, tvg-id="CanalPlusFoot.fr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-foot-fr.png" tvg-name="CANAL+ FOOT FHD"  group-title="CINEMA",CANAL+ FOOT FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116413
+
+#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-34.png" tvg-name="CANAL+ HD"  group-title="CINEMA",CANAL+ HD
+http://151.80.18.177:86/Canal+_HD/index.m3u8
 
 #EXTINF:-1, tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-33.png" tvg-name="CANAL+ CINEMA HD"  group-title="CINEMA",CANAL+ CINEMA HD
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="CanalPlusDocs.fr" tvg-logo="Logo N/A" tvg-name="CANAL+ DOCS FHD"  group-title="CINEMA",CANAL+ DOCS FHD
+#EXTINF:-1, tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-33.png" tvg-name="CANAL+ CINEMA FHD"  group-title="CINEMA",CANAL+ CINEMA FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116411
+
+#EXTINF:-1, tvg-id="CanalPlusDocs.fr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-docs-fr.png" tvg-name="CANAL+ DOCS FHD"  group-title="CINEMA",CANAL+ DOCS FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116412
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL+  SERIES FHD"  group-title="CINEMA",CANAL+  SERIES FHD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-series-fr.png" tvg-name="CANAL+  SERIES FHD"  group-title="CINEMA",CANAL+  SERIES FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116415
 
-#EXTINF:-1, tvg-id="CanalPlusCinema.fr" tvg-logo="Logo N/A" tvg-name="CANAL+ CINEMA FHD"  group-title="CINEMA",CANAL+ CINEMA FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116411
+#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="Logo N/A" tvg-name="CANAL+ FHD"  group-title="CINEMA",CANAL+ FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116409
+
+#EXTINF:-1, tvg-id="OCSMax.fr" tvg-logo="https://www.lyngsat.com/logo/tv/oo/ocs-max-fr.png" tvg-name="OCS MAX FHD"  group-title="CINEMA",OCS MAX FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116416
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NOVELAS TV HD"  group-title="CINEMA",NOVELAS TV HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116445
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WARNER TV FHD"  group-title="CINEMA",WARNER TV FHD
+#EXTINF:-1, tvg-id="WarnerTV.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner-tv-us.png" tvg-name="WARNER TV FHD"  group-title="CINEMA",WARNER TV FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116433
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DREAMWORKS HD"  group-title="CINEMA",DREAMWORKS HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116448
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OCS MAX FHD"  group-title="CINEMA",OCS MAX FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116416
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TEVA FHD"  group-title="CINEMA",TEVA FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116436
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TCM CINEMA FHD"  group-title="CINEMA",TCM CINEMA FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116426
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="POLAR+ FHD"  group-title="CINEMA",POLAR+ FHD
+#EXTINF:-1, tvg-id="PolarPlus.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-2326.png" tvg-name="POLAR+ FHD"  group-title="CINEMA",POLAR+ FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116434
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINE+ EMOTION FHD"  group-title="CINEMA",CINE+ EMOTION FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116420
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINE+ CLUB FHD"  group-title="CINEMA",CINE+ CLUB FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116423
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINE CLASSIC FHD"  group-title="CINEMA",CINE CLASSIC FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116424
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINE+ FAMIZ FHD"  group-title="CINEMA",CINE+ FAMIZ FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116422
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COMEDIE+ FHD"  group-title="CINEMA",COMEDIE+ FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116432
 
 #EXTINF:-1, tvg-id="TF1SeriesFilms.fr" tvg-logo="https://static.teleboy.ch/shared/stations/372/icon320_light.png?v2023_48_0" tvg-name="TF1 SERIES FILMS"  group-title="CINEMA",TF1 SERIES FILMS
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINE+ FRISSON FHD"  group-title="CINEMA",CINE+ FRISSON FHD
+#EXTINF:-1, tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-191.png" tvg-name="TEVA FHD"  group-title="CINEMA",TEVA FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116436
+
+#EXTINF:-1, tvg-id="TCM.fr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tcm-cinema-us-fr.png" tvg-name="TCM CINEMA FHD"  group-title="CINEMA",TCM CINEMA FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116426
+
+#EXTINF:-1, tvg-id="CinePlusEmotion" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cineplus-emotion-fr.svg" tvg-name="CINE+ EMOTION FHD"  group-title="CINEMA",CINE+ EMOTION FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116420
+
+#EXTINF:-1, tvg-id="CinePlusClub.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/82633078" tvg-name="CINE+ CLUB FHD"  group-title="CINEMA",CINE+ CLUB FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116423
+
+#EXTINF:-1, tvg-id="CinePlusClassic.fr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cineplus-classic-fr.svg" tvg-name="CINE CLASSIC FHD"  group-title="CINEMA",CINE CLASSIC FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116424
+
+#EXTINF:-1, tvg-id="CinePlusFrisson.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-284.png" tvg-name="CINE+ FAMIZ FHD"  group-title="CINEMA",CINE+ FAMIZ FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116422
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DREAMWORKS HD"  group-title="CINEMA",DREAMWORKS HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116448
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_comedie_plus.png" tvg-name="COMEDIE+ FHD"  group-title="CINEMA",COMEDIE+ FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116432
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cineplus-frisson-fr.svg" tvg-name="CINE+ FRISSON FHD"  group-title="CINEMA",CINE+ FRISSON FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116421
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="13 EME RUE HD"  group-title="CINEMA",13 EME RUE HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116444
-
-#EXTINF:-1, tvg-id="Action.frf" tvg-logo="Logo N/A" tvg-name="ACTION FHD"  group-title="CINEMA",ACTION FHD
+#EXTINF:-1, tvg-id="Action.frf" tvg-logo="https://www.lyngsat.com/logo/tv/aa/action_fr.png" tvg-name="ACTION FHD"  group-title="CINEMA",ACTION FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116425
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A LA CARTE 6 HD"  group-title="CINEMA",A LA CARTE 6 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116489
 
 #EXTINF:-1, tvg-id="Bet.fr" tvg-logo="Logo N/A" tvg-name="BET HD"  group-title="CINEMA",BET HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116441
 
+#EXTINF:-1, tvg-id="13Rue.fr" tvg-logo="https://www.lyngsat.com/logo/tv/num/13eme_rue_fr.png" tvg-name="13 EME RUE HD"  group-title="CINEMA",13 EME RUE HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116444
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A LA CARTE 1 HD"  group-title="CINEMA",A LA CARTE 1 HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116484
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY FRANCE FHD"  group-title="DOCUMENTAIRE",DISCOVERY FRANCE FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116123
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A LA CARTE 6 HD"  group-title="CINEMA",A LA CARTE 6 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116489
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MUSEUM CHANNEL HD"  group-title="DOCUMENTAIRE",MUSEUM CHANNEL HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116118
+#EXTINF:-1, tvg-id="Histoire.fr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/histoire-tv-fr.png" tvg-name="HISTOIRE HD"  group-title="DOCUMENTAIRE",HISTOIRE HD
+http://151.80.18.177:86/Histoire/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CRIME DISTRICT HD"  group-title="DOCUMENTAIRE",CRIME DISTRICT HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116125
+#EXTINF:-1, tvg-id="DiscoveryChannel.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-400.png" tvg-name="DISCOVERY CHANNELHD"  group-title="DOCUMENTAIRE",DISCOVERY CHANNELHD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NAT GEO WILD HD"  group-title="DOCUMENTAIRE",NAT GEO WILD HD
+#EXTINF:-1, tvg-id="NationalGeographic.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-243.png" tvg-name="NAT GEO HD"  group-title="DOCUMENTAIRE",NAT GEO HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116108
+
+#EXTINF:-1, tvg-id="NatGeoWild.fr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" tvg-name="NAT GEO WILD HD"  group-title="DOCUMENTAIRE",NAT GEO WILD HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116110
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TOUTE L HISTOIRE HD"  group-title="DOCUMENTAIRE",TOUTE L HISTOIRE HD
+#EXTINF:-1, tvg-id="TouteHistoire.fr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toute_histoire_fr.png" tvg-name="TOUTE L HISTOIRE HD"  group-title="DOCUMENTAIRE",TOUTE L HISTOIRE HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116131
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NAT GEO WILD FHD"  group-title="DOCUMENTAIRE",NAT GEO WILD FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116111
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NAT GEO HD"  group-title="DOCUMENTAIRE",NAT GEO HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116108
 
 #EXTINF:-1, tvg-id="NationalGeographic.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-243.png" tvg-name="NATIONAL GEO HD"  group-title="DOCUMENTAIRE",NATIONAL GEO HD
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="Animaiux.fr" tvg-logo="Logo N/A" tvg-name="ANIMAUX HD"  group-title="DOCUMENTAIRE",ANIMAUX HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116133
+#EXTINF:-1, tvg-id="CrimeDistrict.fr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime_district_fr.png" tvg-name="CRIME DISTRICT HD"  group-title="DOCUMENTAIRE",CRIME DISTRICT HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116125
 
-#EXTINF:-1, tvg-id="Animaiux.fr" tvg-logo="Logo N/A" tvg-name="ANIMAUX FHD"  group-title="DOCUMENTAIRE",ANIMAUX FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116134
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" tvg-name="DISCOVERY FHD"  group-title="DOCUMENTAIRE",DISCOVERY FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116123
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/ss/science-and-vie-tv-fr.png" tvg-name="SCIENCE ET VIE HD"  group-title="DOCUMENTAIRE",SCIENCE ET VIE HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116119
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/ss/science-and-vie-tv-fr.png" tvg-name="SCIENCE & VIE FHD"  group-title="DOCUMENTAIRE",SCIENCE & VIE FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116120
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ARTE INVIT VOYAGE"  group-title="DOCUMENTAIRE",ARTE INVIT VOYAGE
 https://d3223vg0o80ccf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xn2vfltkhli08/Invitationauvoyage_FR.m3u8
 
-#EXTINF:-1, tvg-id="Histoire.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-88.png" tvg-name="HISTOIRE HD"  group-title="DOCUMENTAIRE",HISTOIRE HD
-http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1, tvg-id="Animaiux.fr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animaux_fr.png" tvg-name="ANIMAUX FHD"  group-title="DOCUMENTAIRE",ANIMAUX FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116134
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SCIENCE ET VIE HD"  group-title="DOCUMENTAIRE",SCIENCE ET VIE HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116119
+#EXTINF:-1, tvg-id="Animaiux.fr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animaux_fr.png" tvg-name="ANIMAUX HD"  group-title="DOCUMENTAIRE",ANIMAUX HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116133
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY INVESTIGATION HD"  group-title="DOCUMENTAIRE",DISCOVERY INVESTIGATION HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116126
-
-#EXTINF:-1, tvg-id="DiscoveryChannel.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-400.png" tvg-name="DISCOVERY HD"  group-title="DOCUMENTAIRE",DISCOVERY HD
-http://151.80.18.177:86/Discovery_HD/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY SCIENCE HD"  group-title="DOCUMENTAIRE",DISCOVERY SCIENCE HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116121
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY SCIENCE FHD"  group-title="DOCUMENTAIRE",DISCOVERY SCIENCE FHD
+#EXTINF:-1, tvg-id="DiscoveryScience.fr" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" tvg-name="DISCOVERY SCIENCE FHD"  group-title="DOCUMENTAIRE",DISCOVERY SCIENCE FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116127
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SCIENCE & VIE FHD"  group-title="DOCUMENTAIRE",SCIENCE & VIE FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116120
+#EXTINF:-1, tvg-id="DiscoveryInvestigation.fr" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" tvg-name="DISCOVERY INVESTIGATION HD"  group-title="DOCUMENTAIRE",DISCOVERY INVESTIGATION HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116126
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PLANETE+ FHD"  group-title="DOCUMENTAIRE",PLANETE+ FHD
+#EXTINF:-1, tvg-id="DiscoveryScience.fr" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" tvg-name="DISCOVERY SCIENCE HD"  group-title="DOCUMENTAIRE",DISCOVERY SCIENCE HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116121
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MUSEUM CHANNEL HD"  group-title="DOCUMENTAIRE",MUSEUM CHANNEL HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116118
+
+#EXTINF:-1, tvg-id="NationalGeographic.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-243.png" tvg-name="NAT GEO FHD"  group-title="DOCUMENTAIRE",NAT GEO FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116109
+
+#EXTINF:-1, tvg-id="PlanetePlus.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planete_plus.png" tvg-name="PLANETE+ FHD"  group-title="DOCUMENTAIRE",PLANETE+ FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116100
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PLANETE+ HD"  group-title="DOCUMENTAIRE",PLANETE+ HD
+#EXTINF:-1, tvg-id="PlanetePlus.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planete_plus.png" tvg-name="PLANETE+ HD"  group-title="DOCUMENTAIRE",PLANETE+ HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116099
+
+#EXTINF:-1, tvg-id="UshuaiaTV.fr" tvg-logo="https://www.lyngsat.com/logo/tv/uu/ushuaia-tv-fr.png" tvg-name="USHUAIA TV HD"  group-title="DOCUMENTAIRE",USHUAIA TV HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116112
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VOYAGE+"  group-title="DOCUMENTAIRE",VOYAGE+
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NAT GEO FHD"  group-title="DOCUMENTAIRE",NAT GEO FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116109
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USHUAIA TV HD"  group-title="DOCUMENTAIRE",USHUAIA TV HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116112
+#EXTINF:-1, tvg-id="RmcDecouverte.fr" tvg-logo="https://static.teleboy.ch/shared/stations/380/icon320_light.png?v2023_48_0" tvg-name="RMC DECOUVERTE"  group-title="DOCUMENTAIRE",RMC DECOUVERTE
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 
 #EXTINF:-1, tvg-id="Cherie25.fr" tvg-logo="https://i81.servimg.com/u/f81/19/39/09/46/img_4810.jpg" tvg-name="RMC LIFE"  group-title="DOCUMENTAIRE",RMC LIFE
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RMC STORY HD"  group-title="DOCUMENTAIRE",RMC STORY HD
+#EXTINF:-1, tvg-id="RmcStory.fr" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-story-fr.png" tvg-name="RMC STORY HD"  group-title="DOCUMENTAIRE",RMC STORY HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116116
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RMC DECOUVERTE HD"  group-title="DOCUMENTAIRE",RMC DECOUVERTE HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116114
-
-#EXTINF:-1, tvg-id="RmcDecouverte.fr" tvg-logo="https://static.teleboy.ch/shared/stations/380/icon320_light.png?v2023_48_0" tvg-name="RMC DECOUVERTE"  group-title="DOCUMENTAIRE",RMC DECOUVERTE
-https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RMC DECOUVERTE FHD"  group-title="DOCUMENTAIRE",RMC DECOUVERTE FHD
+#EXTINF:-1, tvg-id="RmcDecouverte.fr" tvg-logo="https://static.teleboy.ch/shared/stations/380/icon320_light.png?v2023_48_0" tvg-name="RMC DECOUVERTE FHD"  group-title="DOCUMENTAIRE",RMC DECOUVERTE FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116115
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PLANETE+ CRIME HD"  group-title="DOCUMENTAIRE",PLANETE+ CRIME HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116103
+#EXTINF:-1, tvg-id="RmcDecouverte.fr" tvg-logo="https://static.teleboy.ch/shared/stations/380/icon320_light.png?v2023_48_0" tvg-name="RMC DECOUVERTE HD"  group-title="DOCUMENTAIRE",RMC DECOUVERTE HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116114
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PLANETE+ CI FHD"  group-title="DOCUMENTAIRE",PLANETE+ CI FHD
+#EXTINF:-1, tvg-id="PLANÈTEJustice.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planete-plus-crime-fr.png" tvg-name="PLANETE+ CIRIME FHD"  group-title="DOCUMENTAIRE",PLANETE+ CIRIME FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116104
+
+#EXTINF:-1, tvg-id="NatGeoWild.fr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" tvg-name="NAT GEO WILD FHD"  group-title="DOCUMENTAIRE",NAT GEO WILD FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116111
 
 #EXTINF:-1, tvg-id="Abxplore.fr" tvg-logo="Logo N/A" tvg-name="ABXPLORE HD"  group-title="DOCUMENTAIRE",ABXPLORE HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116129
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CHASSE ET PÊCHE FHD"  group-title="DOCUMENTAIRE",CHASSE ET PÊCHE FHD
+#EXTINF:-1, tvg-id="PLANÈTEJustice.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planete-plus-crime-fr.png" tvg-name="PLANETE+ CRIME HD"  group-title="DOCUMENTAIRE",PLANETE+ CRIME HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116103
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chasse_et_peche.png" tvg-name="CHASSE ET PÊCHE FHD"  group-title="DOCUMENTAIRE",CHASSE ET PÊCHE FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116136
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USHUAIA FHD"  group-title="DOCUMENTAIRE",USHUAIA FHD
+#EXTINF:-1, tvg-id="UshuaiaTV.fr" tvg-logo="https://www.lyngsat.com/logo/tv/uu/ushuaia-tv-fr.png" tvg-name="USHUAIA FHD"  group-title="DOCUMENTAIRE",USHUAIA FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116113
 
-#EXTINF:-1, tvg-id="Arte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_Allemand_color.png" tvg-name="ARTE HD"  group-title="GENERALISTE",ARTE HD
-http://151.80.18.177:86/ARTE_HD/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chasse_et_peche.png" tvg-name="CHASSE ET PECHE HD"  group-title="DOCUMENTAIRE",CHASSE ET PECHE HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116135
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 5 HD"  group-title="GENERALISTE",FRANCE 5 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116076
+#EXTINF:-1, tvg-id="TF1.fr" tvg-logo="https://static.teleboy.ch/shared/stations/308/icon320_light.png?v2023_48_0" tvg-name="TF1 HD"  group-title="GENERALISTE",TF1 HD
+http://151.80.18.177:86/TF1_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="6TER.fr" tvg-logo="Logo N/A" tvg-name="6TER"  group-title="GENERALISTE",6TER
-https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
-
-#EXTINF:-1, tvg-id="France4.fr" tvg-logo="https://static.teleboy.ch/shared/stations/288/icon320_light.png?v2023_48_0" tvg-name="FRANCE 4 HD"  group-title="GENERALISTE",FRANCE 4 HD
-http://151.80.18.177:86/France_4_HD/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TF1 FHD"  group-title="GENERALISTE",TF1 FHD
+#EXTINF:-1, tvg-id="TF1.fr" tvg-logo="https://static.teleboy.ch/shared/stations/308/icon320_light.png?v2023_48_0" tvg-name="TF1 FHD"  group-title="GENERALISTE",TF1 FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116066
-
-#EXTINF:-1, tvg-id="TF1.fr" tvg-logo="https://static.teleboy.ch/shared/stations/308/icon320_light.png?v2023_48_0" tvg-name="TF1"  group-title="GENERALISTE",TF1
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ARTE FHD"  group-title="GENERALISTE",ARTE FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116106
 
 #EXTINF:-1, tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-191.png" tvg-name="TEVA HD"  group-title="GENERALISTE",TEVA HD
 http://151.80.18.177:86/Teva_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 4 HD"  group-title="GENERALISTE",FRANCE 4 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116074
+#EXTINF:-1, tvg-id="TF1plus1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_1_color.png" tvg-name="TF1+1 FHD"  group-title="GENERALISTE",TF1+1 FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116068
+
+#EXTINF:-1, tvg-id="Arte.ffr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arte-fr.svg" tvg-name="ARTE FHD"  group-title="GENERALISTE",ARTE FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116106
+
+#EXTINF:-1, tvg-id="TF1.fr" tvg-logo="https://static.teleboy.ch/shared/stations/308/icon320_light.png?v2023_48_0" tvg-name="TF1"  group-title="GENERALISTE",TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+
+#EXTINF:-1, tvg-id="6TER.fr" tvg-logo="https://www.lyngsat.com/logo/tv/num/6ter_fr.png" tvg-name="6TER"  group-title="GENERALISTE",6TER
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 
 #EXTINF:-1, tvg-id="RTL9.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-115.png" tvg-name="RTL 9 HD"  group-title="GENERALISTE",RTL 9 HD
 http://151.80.18.177:86/RTL9/index.m3u8
@@ -264,152 +273,167 @@ http://151.80.18.177:86/RTL9/index.m3u8
 #EXTINF:-1, tvg-id="RmcStory.fr" tvg-logo="Logo N/A" tvg-name="RMC STORY"  group-title="GENERALISTE",RMC STORY
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 
+#EXTINF:-1, tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-145.png" tvg-name="PARIS PREMIERE HD"  group-title="GENERALISTE",PARIS PREMIERE HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116089
+
 #EXTINF:-1, tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-5.png" tvg-name="AB1 HD"  group-title="GENERALISTE",AB1 HD
 http://151.80.18.177:86/AB1/index.m3u8
 
 #EXTINF:-1, tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-145.png" tvg-name="PARIS PREMIERE HD"  group-title="GENERALISTE",PARIS PREMIERE HD
 http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PARIS PREMIERE HD"  group-title="GENERALISTE",PARIS PREMIERE HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116089
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SYFY HD"  group-title="GENERALISTE",SYFY HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116093
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/num/6ter_fr.png" tvg-name="6TER HD"  group-title="GENERALISTE",6TER HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116080
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/num/6ter_fr.png" tvg-name="6TER FHD"  group-title="GENERALISTE",6TER FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116081
+
+#EXTINF:-1, tvg-id="M6.fr" tvg-logo="https://static.teleboy.ch/shared/stations/312/icon320_light.png?v2023_48_0" tvg-name="M6"  group-title="GENERALISTE",M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 
 #EXTINF:-1, tvg-id="M6.fr" tvg-logo="https://static.teleboy.ch/shared/stations/312/icon320_light.png?v2023_48_0" tvg-name="M6 HD"  group-title="GENERALISTE",M6 HD
 http://151.80.18.177:86/M6_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="6TER HD"  group-title="GENERALISTE",6TER HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116080
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="6TER FHD"  group-title="GENERALISTE",6TER FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116081
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SYFY HD"  group-title="GENERALISTE",SYFY HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116093
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="M6 HD"  group-title="GENERALISTE",M6 HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.teleboy.ch/shared/stations/312/icon320_light.png?v2023_48_0" tvg-name="M6 HD"  group-title="GENERALISTE",M6 HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116078
 
-#EXTINF:-1, tvg-id="M6.fr" tvg-logo="Logo N/A" tvg-name="M6"  group-title="GENERALISTE",M6
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1, tvg-id="Arte.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_Allemand_color.png" tvg-name="ARTE HD"  group-title="GENERALISTE",ARTE HD
+http://151.80.18.177:86/ARTE_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 3 NOA HD"  group-title="GENERALISTE",FRANCE 3 NOA HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116073
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TREK HD"  group-title="GENERALISTE",TREK HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116128
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNTV TAHITI TV"  group-title="GENERALISTE",TNTV TAHITI TV
-https://tntv-samsung-fr.amagi.tv/hls/amagi_hls_data_samsungfr-tntv-samsungfr/CDN/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV BREIZH HD"  group-title="GENERALISTE",TV BREIZH HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116090
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV BREIZH FHD"  group-title="GENERALISTE",TV BREIZH FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116091
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TMC+1 HD"  group-title="GENERALISTE",TMC+1 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116088
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COMEDY CENTRAL  HD"  group-title="GENERALISTE",COMEDY CENTRAL  HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116094
-
-#EXTINF:-1, tvg-id="France5.fr" tvg-logo="https://static.teleboy.ch/shared/stations/80/icon320_light.png?v2023_48_0" tvg-name="FRANCE 5 HD"  group-title="GENERALISTE",FRANCE 5 HD
-http://151.80.18.177:86/France_5_HD/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TMC HD"  group-title="GENERALISTE",TMC HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116086
-
-#EXTINF:-1, tvg-id="ComediePlus.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-54.png" tvg-name="COMEDIE+ HD"  group-title="GENERALISTE",COMEDIE+ HD
-http://151.80.18.177:86/Comedie+_HD/index.m3u8
+#EXTINF:-1, tvg-id="W9.fr" tvg-logo="https://static.teleboy.ch/shared/stations/268/icon320_light.png?v2023_48_0" tvg-name="W9 HD"  group-title="GENERALISTE",W9 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116084
 
 #EXTINF:-1, tvg-id="W9.fr" tvg-logo="https://static.teleboy.ch/shared/stations/268/icon320_light.png?v2023_48_0" tvg-name="W9 HD"  group-title="GENERALISTE",W9 HD
 http://151.80.18.177:86/W9_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="W9 HD"  group-title="GENERALISTE",W9 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116084
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="C8 HD"  group-title="GENERALISTE",C8 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116082
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="C8 FHD"  group-title="GENERALISTE",C8 FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116083
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="W9 FHD"  group-title="GENERALISTE",W9 FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116085
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV5 MONDE HD"  group-title="GENERALISTE",TV5 MONDE HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116154
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV MONACO"  group-title="GENERALISTE",TV MONACO
-https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
-
 #EXTINF:-1, tvg-id="W9.fr" tvg-logo="https://static.teleboy.ch/shared/stations/268/icon320_light.png?v2023_48_0" tvg-name="W9"  group-title="GENERALISTE",W9
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+
+#EXTINF:-1, tvg-id="W9.fr" tvg-logo="https://static.teleboy.ch/shared/stations/268/icon320_light.png?v2023_48_0" tvg-name="W9 FHD"  group-title="GENERALISTE",W9 FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116085
+
+#EXTINF:-1, tvg-id="TMC.fr" tvg-logo="https://static.teleboy.ch/shared/stations/383/icon320_light.png?v2023_48_0" tvg-name="TMC  HD"  group-title="GENERALISTE",TMC  HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116088
+
+#EXTINF:-1, tvg-id="TMC.fr" tvg-logo="https://static.teleboy.ch/shared/stations/383/icon320_light.png?v2023_48_0" tvg-name="TMC"  group-title="GENERALISTE",TMC
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+
+#EXTINF:-1, tvg-id="TMC.fr" tvg-logo="https://static.teleboy.ch/shared/stations/383/icon320_light.png?v2023_48_0" tvg-name="TMC HD"  group-title="GENERALISTE",TMC HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116086
+
+#EXTINF:-1, tvg-id="TMC.fr" tvg-logo="https://static.teleboy.ch/shared/stations/383/icon320_light.png?v2023_48_0" tvg-name="TMC FHD"  group-title="GENERALISTE",TMC FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116087
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVM 3 HD"  group-title="GENERALISTE",TVM 3 HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116138
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TF1+1 HD"  group-title="GENERALISTE",TF1+1 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116067
+#EXTINF:-1, tvg-id="TvBreizh.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-225.png" tvg-name="TV BREIZH HD"  group-title="GENERALISTE",TV BREIZH HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116090
 
-#EXTINF:-1, tvg-id="TMC.fr" tvg-logo="Logo N/A" tvg-name="TMC"  group-title="GENERALISTE",TMC
-https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1, tvg-id="ComediePlus.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-54.png" tvg-name="COMEDIE+ HD"  group-title="GENERALISTE",COMEDIE+ HD
+http://151.80.18.177:86/Comedie+_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="Arte.fr" tvg-logo="Logo N/A" tvg-name="ARTE HD"  group-title="GENERALISTE",ARTE HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116105
+#EXTINF:-1, tvg-id="TvBreizh.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-225.png" tvg-name="TV BREIZH FHD"  group-title="GENERALISTE",TV BREIZH FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116091
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 2 FHD"  group-title="GENERALISTE",FRANCE 2 FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116070
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TREK HD"  group-title="GENERALISTE",TREK HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116128
 
-#EXTINF:-1, tvg-id="TF1.fr" tvg-logo="https://static.teleboy.ch/shared/stations/308/icon320_light.png?v2023_48_0" tvg-name="TF1 HD"  group-title="GENERALISTE",TF1 HD
-http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1, tvg-id="TV5Monde.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/180105/canal-ouah/CHN43FB/TV5MONDE2022_myCANAL_640x480" tvg-name="TV5 MONDE HD"  group-title="GENERALISTE",TV5 MONDE HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116154
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TF1+1 FHD"  group-title="GENERALISTE",TF1+1 FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116068
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNTV TAHITI TV"  group-title="GENERALISTE",TNTV TAHITI TV
+https://tntv-samsung-fr.amagi.tv/hls/amagi_hls_data_samsungfr-tntv-samsungfr/CDN/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-446.png" tvg-name="TFX"  group-title="GENERALISTE",TFX
-https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-us.svg" tvg-name="COMEDY CENTRAL  HD"  group-title="GENERALISTE",COMEDY CENTRAL  HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116094
 
-#EXTINF:-1, tvg-id="France4.fr" tvg-logo="Logo N/A" tvg-name="FRANCE  4"  group-title="GENERALISTE",FRANCE  4
-https://tvradiozap.eu/tools/ft-m3u8.php/france4.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV MONACO"  group-title="GENERALISTE",TV MONACO
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 3 FHD"  group-title="GENERALISTE",FRANCE 3 FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116072
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 3 NOA HD"  group-title="GENERALISTE",FRANCE 3 NOA HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116073
 
-#EXTINF:-1, tvg-id="France3.fr" tvg-logo="https://static.teleboy.ch/shared/stations/58/icon320_light.png?v2023_48_0" tvg-name="FRANCE 3 HD"  group-title="GENERALISTE",FRANCE 3 HD
-http://151.80.18.177:86/France_3_HD/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TMC FHD"  group-title="GENERALISTE",TMC FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116087
+#EXTINF:-1, tvg-id="France4.fr" tvg-logo="https://static.teleboy.ch/shared/stations/288/icon320_light.png?v2023_48_0" tvg-name="FRANCE 4 HD"  group-title="GENERALISTE",FRANCE 4 HD
+http://151.80.18.177:86/France_4_HD/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 3 HD"  group-title="GENERALISTE",FRANCE 3 HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116071
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 5 MONDE HD"  group-title="GENERALITE",TV 5 MONDE HD
+#EXTINF:-1, tvg-id="France3.fr" tvg-logo="https://static.teleboy.ch/shared/stations/58/icon320_light.png?v2023_48_0" tvg-name="FRANCE 3 HD"  group-title="GENERALISTE",FRANCE 3 HD
+http://151.80.18.177:86/France_3_HD/index.m3u8
+
+#EXTINF:-1, tvg-id="Arte.fr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arte-fr.svg" tvg-name="ARTE HD"  group-title="GENERALISTE",ARTE HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116105
+
+#EXTINF:-1, tvg-id="France5.fr" tvg-logo="https://static.teleboy.ch/shared/stations/80/icon320_light.png?v2023_48_0" tvg-name="FRANCE 5 HD"  group-title="GENERALISTE",FRANCE 5 HD
+http://151.80.18.177:86/France_5_HD/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 4 HD"  group-title="GENERALISTE",FRANCE 4 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116074
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 5 HD"  group-title="GENERALISTE",FRANCE 5 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116076
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 2 FHD"  group-title="GENERALISTE",FRANCE 2 FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116070
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="C8 FHD"  group-title="GENERALISTE",C8 FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116083
+
+#EXTINF:-1, tvg-id="France4.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france-4-fr.svg" tvg-name="FRANCE  4"  group-title="GENERALISTE",FRANCE  4
+https://tvradiozap.eu/tools/ft-m3u8.php/france4.m3u8
+
+#EXTINF:-1, tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-446.png" tvg-name="TFX"  group-title="GENERALISTE",TFX
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+
+#EXTINF:-1, tvg-id="TF1plus1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_1_color.png" tvg-name="TF1+1 HD"  group-title="GENERALISTE",TF1+1 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116067
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 3 FHD"  group-title="GENERALISTE",FRANCE 3 FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116072
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="C8 HD"  group-title="GENERALISTE",C8 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116082
+
+#EXTINF:-1, tvg-id="TV5Monde.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/180105/canal-ouah/CHN43FB/TV5MONDE2022_myCANAL_640x480" tvg-name="TV5 MONDE HD"  group-title="GENERALITE",TV5 MONDE HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116107
 
-#EXTINF:-1, tvg-id="Guilli.fr" tvg-logo="Logo N/A" tvg-name="GULLI"  group-title="JEUNESSE",GULLI
-https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GAME ONE HD"  group-title="JEUNESSE",GAME ONE HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116659
 
-#EXTINF:-1, tvg-id="TIJI.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-229.png" tvg-name="TIJI HD"  group-title="JEUNESSE",TIJI HD
-http://151.80.18.177:86/Tiji_HD/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOOMERANG HD"  group-title="JEUNESSE",BOOMERANG HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116646
 
-#EXTINF:-1, tvg-id="Gong.fr" tvg-logo="Logo N/A" tvg-name="GONG  (KO)"  group-title="JEUNESSE",GONG  (KO)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL J HD"  group-title="JEUNESSE",CANAL J HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116655
+
+#EXTINF:-1, tvg-id="DiscoveryChannel.fr" tvg-logo="Logo N/A" tvg-name="DISNEY CHANNEL HD"  group-title="JEUNESSE",DISNEY CHANNEL HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116643
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY XD HD"  group-title="JEUNESSE",DISNEY XD HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116645
+
+#EXTINF:-1, tvg-id="DisneyJunior.fr" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-jr-us.svg" tvg-name="DISNEY JUNIOR HD"  group-title="JEUNESSE",DISNEY JUNIOR HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116644
 
 #EXTINF:-1, tvg-id="DisneyChannel.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-58.png" tvg-name="DISNEY HD"  group-title="JEUNESSE",DISNEY HD
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="NRJ12.fr" tvg-logo="Logo N/A" tvg-name="NRJ 12 HD"  group-title="MUSIQUE",NRJ 12 HD
-http://151.80.18.177:86/NRJ_12_HD/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MANGAS HD"  group-title="JEUNESSE",MANGAS HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116658
 
-#EXTINF:-1, tvg-id="TraceUrban.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/180186/canal-ouah/CHN43FB/TRACEURBAN_myCANAL_640x480" tvg-name="TRACE URBAN"  group-title="MUSIQUE",TRACE URBAN
-http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
+#EXTINF:-1, tvg-id="Guilli.fr" tvg-logo="Logo N/A" tvg-name="GULLI"  group-title="JEUNESSE",GULLI
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
 
-#EXTINF:-1, tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-458.png" tvg-name="CSTAR HD"  group-title="MUSIQUE",CSTAR HD
-http://151.80.18.177:86/D17_HD/index.m3u8
+#EXTINF:-1, tvg-id="Gong.fr" tvg-logo="Logo N/A" tvg-name="GONG  (KO)"  group-title="JEUNESSE",GONG  (KO)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 
-#EXTINF:-1, tvg-id="CStar.fr" tvg-logo="Logo N/A" tvg-name="CSTAR"  group-title="MUSIQUE",CSTAR
-https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
+#EXTINF:-1, tvg-id="TIJI.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-229.png" tvg-name="TIJI HD"  group-title="JEUNESSE",TIJI HD
+http://151.80.18.177:86/Tiji_HD/index.m3u8
 
 #EXTINF:-1, tvg-id="ARTECONCERT.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_Allemand_color.png" tvg-name="ARTE CONCERT"  group-title="MUSIQUE",ARTE CONCERT
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
@@ -417,189 +441,162 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="QWEST JAZZ"  group-title="MUSIQUE",QWEST JAZZ
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOOMERANG HD"  group-title="MUSIQUE & ENFANTS",BOOMERANG HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116646
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV FRANCE HD"  group-title="MUSIQUE & ENFANTS",MTV FRANCE HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116607
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GAME ONE HD"  group-title="MUSIQUE & ENFANTS",GAME ONE HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116659
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL J HD"  group-title="MUSIQUE & ENFANTS",CANAL J HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116655
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="M6 MUSIC"  group-title="MUSIQUE & ENFANTS",M6 MUSIC
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116602
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MANGAS HD"  group-title="MUSIQUE & ENFANTS",MANGAS HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116658
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MCM TOP HD"  group-title="MUSIQUE & ENFANTS",MCM TOP HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116606
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY JUNIOR HD"  group-title="MUSIQUE & ENFANTS",DISNEY JUNIOR HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116644
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY CHANNEL HD"  group-title="MUSIQUE & ENFANTS",DISNEY CHANNEL HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116643
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CSTAR HITS FRANCE FHD"  group-title="MUSIQUE & ENFANTS",CSTAR HITS FRANCE FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116612
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV DANCE HD"  group-title="MUSIQUE & ENFANTS",MTV DANCE HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV DANCE HD"  group-title="MUSIQUE",MTV DANCE HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116609
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTS HD"  group-title="MUSIQUE & ENFANTS",RTS HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116614
+#EXTINF:-1, tvg-id="TraceUrban.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/180186/canal-ouah/CHN43FB/TRACEURBAN_myCANAL_640x480" tvg-name="TRACE URBAN"  group-title="MUSIQUE",TRACE URBAN
+http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NICKELODEON HD"  group-title="MUSIQUE & ENFANTS",NICKELODEON HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116647
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NRJ HITS HD"  group-title="MUSIQUE & ENFANTS",NRJ HITS HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NRJ HITS HD"  group-title="MUSIQUE",NRJ HITS HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116603
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV HITS HD"  group-title="MUSIQUE & ENFANTS",MTV HITS HD
+#EXTINF:-1, tvg-id="NRJ12.fr" tvg-logo="Logo N/A" tvg-name="NRJ 12 HD"  group-title="MUSIQUE",NRJ 12 HD
+http://151.80.18.177:86/NRJ_12_HD/index.m3u8
+
+#EXTINF:-1, tvg-id="Nickelodeon.fr" tvg-logo="Logo N/A" tvg-name="NICKELODEON HD"  group-title="MUSIQUE",NICKELODEON HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116647
+
+#EXTINF:-1, tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-458.png" tvg-name="CSTAR HD"  group-title="MUSIQUE",CSTAR HD
+http://151.80.18.177:86/D17_HD/index.m3u8
+
+#EXTINF:-1, tvg-id="CStar.fr" tvg-logo="Logo N/A" tvg-name="CSTAR"  group-title="MUSIQUE",CSTAR
+https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTS HD"  group-title="MUSIQUE ",RTS HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116614
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mcm-top-fr.png" tvg-name="MCM TOP HD"  group-title="MUSIQUE ",MCM TOP HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116606
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV HITS HD"  group-title="MUSIQUE ",MTV HITS HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116608
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY XD HD"  group-title="MUSIQUE & ENFANTS",DISNEY XD HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116645
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="M6 MUSIC"  group-title="MUSIQUE ",M6 MUSIC
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116602
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CHASSE ET PECHE HD"  group-title="OCUMENTAIRE",CHASSE ET PECHE HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116135
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg" tvg-name="MTV FRANCE HD"  group-title="MUSIQUE ",MTV FRANCE HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116607
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CSTAR HITS FRANCE FHD"  group-title="MUSIQUE ",CSTAR HITS FRANCE FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116612
+
+#EXTINF:-1, tvg-id="beINSPORTS3.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" tvg-name="BEIN SPORT 3 FHD"  group-title="SPORT",BEIN SPORT 3 FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116518
+
+#EXTINF:-1, tvg-id="beINSPORTS2.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" tvg-name="BEIN SPORT 2 HD"  group-title="SPORT",BEIN SPORT 2 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116515
+
+#EXTINF:-1, tvg-id="beINSPORTS3.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" tvg-name="BEIN SPORT 3 HD"  group-title="SPORT",BEIN SPORT 3 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116517
+
+#EXTINF:-1, tvg-id="beINSPORTS2.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" tvg-name="BEIN SPORT 2 FHD"  group-title="SPORT",BEIN SPORT 2 FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116516
+
+#EXTINF:-1, tvg-id="beINSPORTS1.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" tvg-name="BEIN SPORT 1 FHD"  group-title="SPORT",BEIN SPORT 1 FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116514
+
+#EXTINF:-1, tvg-id="Automoto.fr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/automoto-la-chaine-fr.png" tvg-name="AUTOMOTO TV HD"  group-title="SPORT",AUTOMOTO TV HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116569
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/ee/equidia-fr.svg" tvg-name="EQUIDIA FHD"  group-title="SPORT",EQUIDIA FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116571
+
+#EXTINF:-1, tvg-id="beINSPORTS1.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" tvg-name="BEIN SPORT 1 HD"  group-title="SPORT",BEIN SPORT 1 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116513
+
+#EXTINF:-1, tvg-id="beINSPORTSMAX7.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-7-qa.png" tvg-name="BEIN SPORT MAX 7 HD"  group-title="SPORT",BEIN SPORT MAX 7 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116522
+
+#EXTINF:-1, tvg-id="beINSPORTSMAX5.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-5-qa.png" tvg-name="BEIN SPORTS MAX 5 HD"  group-title="SPORT",BEIN SPORTS MAX 5 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116520
+
+#EXTINF:-1, tvg-id="beINSPORTSMAX10.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-10-qa.png" tvg-name="BEIN SPORTS MAX 10 HD"  group-title="SPORT",BEIN SPORTS MAX 10 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116525
 
 #EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-34.png" tvg-name="CANAL+  HD"  group-title="SPORT",CANAL+  HD
 http://151.80.18.177:86/Canal+_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="https://static-cdn.tv.sfr.net/data/logos/tv_services/Sport_en_France_color.png" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Sport_en_France_color.png" tvg-name="SPORT EN FRANCE"  group-title="SPORT",SPORT EN FRANCE
-https://tvradiozap.eu/tools/dm-m3u8.php/1/x8sayn8.m3u8
-
-#EXTINF:-1, tvg-id="beINSPORTS2.fr" tvg-logo="Logo N/A" tvg-name="BEIN SPORT 2 HD"  group-title="SPORT",BEIN SPORT 2 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116515
-
-#EXTINF:-1, tvg-id="beINSPORTS2.fr" tvg-logo="Logo N/A" tvg-name="BEIN SPORT 2 FHD"  group-title="SPORT",BEIN SPORT 2 FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116516
-
-#EXTINF:-1, tvg-id="beINSPORTS3.fr" tvg-logo="Logo N/A" tvg-name="BEIN SPORT 3 FHD"  group-title="SPORT",BEIN SPORT 3 FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116518
-
-#EXTINF:-1, tvg-id="beINSPORTSMAX7.fr" tvg-logo="Logo N/A" tvg-name="BEIN SPORT MAX 7 HD"  group-title="SPORT",BEIN SPORT MAX 7 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116522
-
-#EXTINF:-1, tvg-id="beINSPORTS3.fr" tvg-logo="Logo N/A" tvg-name="BEIN SPORT 3 HD"  group-title="SPORT",BEIN SPORT 3 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116517
-
-#EXTINF:-1, tvg-id="Automoto.fr" tvg-logo="Logo N/A" tvg-name="AUTOMOTO LA CHAINE FHD"  group-title="SPORT",AUTOMOTO LA CHAINE FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116570
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EQUIDIA FHD"  group-title="SPORT",EQUIDIA FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116571
-
-#EXTINF:-1, tvg-id="Automoto.fr" tvg-logo="Logo N/A" tvg-name="AUTOMOTO TV HD"  group-title="SPORT",AUTOMOTO TV HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116569
-
-#EXTINF:-1, tvg-id="beINSPORTS1.fr" tvg-logo="Logo N/A" tvg-name="BEIN SPORT 1 HD"  group-title="SPORT",BEIN SPORT 1 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116513
-
-#EXTINF:-1, tvg-id="beINSPORTS1.fr" tvg-logo="Logo N/A" tvg-name="BEIN SPORT 1 FHD"  group-title="SPORT",BEIN SPORT 1 FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116514
-
-#EXTINF:-1, tvg-id="beINSPORTSMAX8.fr" tvg-logo="Logo N/A" tvg-name="BEIN SPORT MAX 8 HD"  group-title="SPORT",BEIN SPORT MAX 8 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116523
-
-#EXTINF:-1, tvg-id="beINSPORTSMAX9.fr" tvg-logo="Logo N/A" tvg-name="BEIN SPORT MAX 9 HD"  group-title="SPORT",BEIN SPORT MAX 9 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116524
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL+ SPORT 360 FHD"  group-title="SPORT",CANAL+ SPORT 360 FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116501
-
-#EXTINF:-1, tvg-id="beINSPORTSMAX10.fr" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS MAX 10 HD"  group-title="SPORT",BEIN SPORTS MAX 10 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116525
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL+ F1 HD"  group-title="SPORT",CANAL+ F1 HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116498
 
-#EXTINF:-1, tvg-id="beINSPORTSMAX5.fr" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS MAX 5 HD"  group-title="SPORT",BEIN SPORTS MAX 5 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116520
-
-#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-35.png" tvg-name="CANAL+ SPORT HD"  group-title="SPORT",CANAL+ SPORT HD
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL+ SPORT HD"  group-title="SPORT",CANAL+ SPORT HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116502
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL+ SPORT FHD"  group-title="SPORT",CANAL+ SPORT FHD
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-fr.png" tvg-name="CANAL+ SPORT FHD"  group-title="SPORT",CANAL+ SPORT FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116503
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL+ SPORT 360 HD"  group-title="SPORT",CANAL+ SPORT 360 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116506
+#EXTINF:-1, tvg-id="beINSPORTSMAX9.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-9-qa.png" tvg-name="BEIN SPORT MAX 9 HD"  group-title="SPORT",BEIN SPORT MAX 9 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116524
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL+ SPORT 360 HD"  group-title="SPORT",CANAL+ SPORT 360 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116500
+#EXTINF:-1, tvg-id="beINSPORTSMAX8.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-8-qa.png" tvg-name="BEIN SPORT MAX 8 HD"  group-title="SPORT",BEIN SPORT MAX 8 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116523
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="INFOSPORT+ HD"  group-title="SPORT",INFOSPORT+ HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116537
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-fr.png" tvg-name="CANAL+ SPORT HD"  group-title="SPORT",CANAL+ SPORT HD
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-fr.png" tvg-name="CANAL+ SPORT HD"  group-title="SPORT",CANAL+ SPORT HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116502
+
+#EXTINF:-1, tvg-id="Automoto.fr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/automoto-la-chaine-fr.png" tvg-name="AUTOMOTO LA CHAINE FHD"  group-title="SPORT",AUTOMOTO LA CHAINE FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116570
 
 #EXTINF:-1, tvg-id="L'équipe21.fr" tvg-logo="https://static.teleboy.ch/shared/stations/373/icon320_light.png?v2023_48_0" tvg-name="L'EQUIPE 21"  group-title="SPORT",L'EQUIPE 21
 https://tvradiozap.eu/tools/dm-m3u8.php/1/x2lefik.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RMC SPORT 4 HD"  group-title="SPORT",RMC SPORT 4 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116546
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="INFOSPORT+ FHD"  group-title="SPORT",INFOSPORT+ FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116538
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="L'EQUIPE 21 FHD"  group-title="SPORT",L'EQUIPE 21 FHD
+#EXTINF:-1, tvg-id="L'équipe21.fr" tvg-logo="https://static.teleboy.ch/shared/stations/373/icon320_light.png?v2023_48_0" tvg-name="L'EQUIPE 21 FHD"  group-title="SPORT",L'EQUIPE 21 FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116536
 
-#EXTINF:-1, tvg-id="NbaTV.us" tvg-logo="New Logo" tvg-name="NBA TV HD"  group-title="SPORT",NBA TV HD
-http://89.105.221.127/NBATV/index.m3u8?token=test
+#EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ii/infosport-plus-fr.png" tvg-name="INFOSPORT+ FHD"  group-title="SPORT",INFOSPORT+ FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116538
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RMC SPORT 3 FHD"  group-title="SPORT",RMC SPORT 3 FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116545
+#EXTINF:-1, tvg-id="RMCSport4.fr" tvg-logo="Logo N/A" tvg-name="RMC SPORT 4 HD"  group-title="SPORT",RMC SPORT 4 HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116546
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="L'EQUIPE 21 HD"  group-title="SPORT",L'EQUIPE 21 HD
+#EXTINF:-1, tvg-id="L'équipe21.fr" tvg-logo="https://static.teleboy.ch/shared/stations/373/icon320_light.png?v2023_48_0" tvg-name="L'EQUIPE 21 HD"  group-title="SPORT",L'EQUIPE 21 HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116535
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NAUTICAL TV HD"  group-title="SPORT",NAUTICAL TV HD
+#EXTINF:-1, tvg-id="NBATV.us" tvg-logo="New Logo" tvg-name="NBA TV HD"  group-title="SPORT",NBA TV HD
+http://89.105.221.127/NBATV/index.m3u8?token=test
+
+#EXTINF:-1, tvg-id="RMCSport3.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSPORTLIVE3100x100.png" tvg-name="RMC SPORT 3 FHD"  group-title="SPORT",RMC SPORT 3 FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116545
+
+#EXTINF:-1, tvg-id="SportEnfrance.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Sport_en_France_color.png" tvg-name="SPORT EN FRANCE"  group-title="SPORT",SPORT EN FRANCE
+https://tvradiozap.eu/tools/dm-m3u8.php/1/x8sayn8.m3u8
+
+#EXTINF:-1, tvg-id="NauticalTV.fr" tvg-logo="Logo N/A" tvg-name="NAUTICAL TV HD"  group-title="SPORT",NAUTICAL TV HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116579
 
-#EXTINF:-1, tvg-id="GolfPlus.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/2951335" tvg-name="GOLF+"  group-title="SPORT",GOLF+
-http://151.80.18.177:86/GOLF+_HD/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EUROSPORT 2 FHD"  group-title="SPORT",EUROSPORT 2 FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116568
-
-#EXTINF:-1, tvg-id="Eurosport2.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-439.png" tvg-name="EUROSPORT 2 HD"  group-title="SPORT",EUROSPORT 2 HD
+#EXTINF:-1, tvg-id="Eurosport2.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-2-fr.svg" tvg-name="EUROSPORT 2 HD"  group-title="SPORT",EUROSPORT 2 HD
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GOLF+ HD"  group-title="SPORT",GOLF+ HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116572
-
-#EXTINF:-1, tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-76.png" tvg-name="EUROSPORT 1 HD"  group-title="SPORT",EUROSPORT 1 HD
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOOT+ 24/24 FHD"  group-title="SPORT",FOOT+ 24/24 FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116512
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GINX ESPORTS TV HD"  group-title="SPORT",GINX ESPORTS TV HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116575
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-2-fr.svg" tvg-name="EUROSPORT 2 FHD"  group-title="SPORT",EUROSPORT 2 FHD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116568
+
+#EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ii/infosport-plus-fr.png" tvg-name="INFOSPORT+ HD"  group-title="SPORT",INFOSPORT+ HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116537
+
+#EXTINF:-1, tvg-id="Eurosport1.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-1-fr.svg" tvg-name="EUROSPORT 1 HD"  group-title="SPORT",EUROSPORT 1 HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GOLF + HD"  group-title="SPORT",GOLF + HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116582
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOOT+ 24/24 HD"  group-title="SPORT",FOOT+ 24/24 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116511
+#EXTINF:-1, tvg-id="GolfPlus.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/2951335" tvg-name="GOLF+"  group-title="SPORT",GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GOLF+ HD"  group-title="SPORT",GOLF+ HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116572
 
 #EXTINF:-1, tvg-id="ESPN1.us" tvg-logo="New Logo" tvg-name="ESPN 1 HD"  group-title="USA",ESPN 1 HD
 http://89.105.221.127/ESPN1/index.m3u8?token=test
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TENNIS HD"  group-title="USA",TENNIS HD
-http://89.105.221.127/tennis/index.m3u8?token=test
-
 #EXTINF:-1, tvg-id="CNN.us" tvg-logo="New Logo" tvg-name="CNN"  group-title="USA",CNN
 http://89.105.221.127/CNN/index.m3u8?token=test
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NBA TV  HD"  group-title="USA",NBA TV  HD
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TENNIS HD"  group-title="USA",TENNIS HD
+http://89.105.221.127/tennis/index.m3u8?token=test
+
+#EXTINF:-1, tvg-id="NBATV.us" tvg-logo="New Logo" tvg-name="NBA TV  HD"  group-title="USA",NBA TV  HD
 http://89.105.221.127/NBATV/index.m3u8?token=test
 
